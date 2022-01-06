@@ -1,0 +1,1 @@
+void cpyfile(FILE* dest, FILE* src);
